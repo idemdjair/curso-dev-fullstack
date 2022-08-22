@@ -1,0 +1,91 @@
+body {
+    background: rgb(211, 208, 208);
+    font-family: Arial, Helvetica, 'Courir New', sans-serif;
+    margin: 0;
+}
+
+p {
+    margin-top: 0;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    margin-top: 10px;
+    font-style: italic;
+    color: rgb(73 73 73);
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+
+h3 {
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+}
+
+h4 {
+    margin-bottom: 5px;
+}
+
+h5 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.profile {
+    background-color: aquamarine;
+    text-align: center;
+    margin-bottom: 25px;
+    padding: 15px;
+}
+
+.social-icons {
+    width: 20px;
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+.youtube {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.foto-principal {
+    width: 500px;
+    border: 5px solid rgb(255, 255, 255);
+    /*border-radius: 150px;*/
+    /* border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 500px; */
+    margin: 30px 30px 30px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgb(189, 189, 189);
+}
+
+.jobs-list {
+    padding-left: 20px;
+    list-style: none;
+}
+
+.footer {
+    background-color: black;
+    margin-top: 40px;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}

@@ -1,0 +1,46 @@
+body {
+    background: rgb(211, 208, 208);
+    font-family: Arial, Helvetica, 'Courir New', sans-serif;
+}
+
+h3 {
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.profile {
+    background-color: aquamarine;
+    text-align: center;
+    margin-bottom: 25px;
+    padding: 15px;
+}
+
+.social-icons {
+    width: 20px;
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+.youtube {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.foto-principal {
+    width: 500px;
+    border: 5px solid rgb(255, 255, 255);
+    /*border-radius: 150px;*/
+    /* border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 500px; */
+    margin: 30px 30px 30px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgb(189, 189, 189);
+}
